@@ -1,8 +1,21 @@
-# React + Vite
+Juego cuatro en linea
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Curso de React desde cero: Crea un videojuego y una aplicación para aprender useState y useEffect.
 
-Currently, two official plugins are available:
+Este proyecto está basado en el tutorial de [midulive] en su canal de YouTube. El tutorial original se puede encontrar [https://www.youtube.com/watch?v=qkzcjwnueLA&t=4611s].
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vista Previa
+
+![Alt text](image.png)
+
+Instalación
+Asegúrate de tener Node.js y npm instalados. Luego, sigue estos pasos:
+
+# Clona el repositorio
+git clone https://github.com/Edw-Castro/cuatro-en-linea.git
+
+# Entra al directorio del proyecto
+cd cuatro-en-linea
+
+# Instala las dependencias
+npm install
